@@ -47,7 +47,7 @@ const useStyles = makeStyles(() => ({
     display: 'flex',
     justifyContent: 'center',
     width: '300px',
-    margin: '20px auto 0',
+    margin: '12px auto 0',
     '& .MuiInputBase-root ': {
       '& > input': {
         display: 'block',
