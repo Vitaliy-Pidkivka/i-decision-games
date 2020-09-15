@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/i-decision-games/precache-manifest.a27e434635f8a91d92b6317a4b22206f.js"
+  "/i-decision-games/precache-manifest.03fd52971e596e447e7920c72a8dae00.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1b1d16038dda26128514da24278a9a9",
+    "revision": "b2532eff01f67e45294d7922a95b3801",
     "url": "/i-decision-games/index.html"
   },
   {
-    "revision": "1ab34a3bd3b56eccf9f6",
+    "revision": "fc1bb8dd6ea47d84280a",
     "url": "/i-decision-games/static/css/main.c267420c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/i-decision-games/static/js/2.c4a6d119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ab34a3bd3b56eccf9f6",
-    "url": "/i-decision-games/static/js/main.bd3f389f.chunk.js"
+    "revision": "fc1bb8dd6ea47d84280a",
+    "url": "/i-decision-games/static/js/main.f28e9a0c.chunk.js"
   },
   {
     "revision": "4fdd363165aa180db3d0",
