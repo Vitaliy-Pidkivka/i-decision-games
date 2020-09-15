@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/i-decision-games/static/css/main.c267420c.chunk.css",
+    "main.js": "/i-decision-games/static/js/main.0c2efd88.chunk.js",
+    "main.js.map": "/i-decision-games/static/js/main.0c2efd88.chunk.js.map",
+    "runtime-main.js": "/i-decision-games/static/js/runtime-main.38423f74.js",
+    "runtime-main.js.map": "/i-decision-games/static/js/runtime-main.38423f74.js.map",
+    "static/js/2.c4a6d119.chunk.js": "/i-decision-games/static/js/2.c4a6d119.chunk.js",
+    "static/js/2.c4a6d119.chunk.js.map": "/i-decision-games/static/js/2.c4a6d119.chunk.js.map",
+    "index.html": "/i-decision-games/index.html",
+    "precache-manifest.a1715425b75468036e2cd6ed60108617.js": "/i-decision-games/precache-manifest.a1715425b75468036e2cd6ed60108617.js",
+    "service-worker.js": "/i-decision-games/service-worker.js",
+    "static/css/main.c267420c.chunk.css.map": "/i-decision-games/static/css/main.c267420c.chunk.css.map",
+    "static/js/2.c4a6d119.chunk.js.LICENSE.txt": "/i-decision-games/static/js/2.c4a6d119.chunk.js.LICENSE.txt",
+    "static/media/next-arrow.svg": "/i-decision-games/static/media/next-arrow.6329c0a6.svg",
+    "static/media/prev-arrow.svg": "/i-decision-games/static/media/prev-arrow.6962a174.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38423f74.js",
+    "static/js/2.c4a6d119.chunk.js",
+    "static/css/main.c267420c.chunk.css",
+    "static/js/main.0c2efd88.chunk.js"
+  ]
+}
