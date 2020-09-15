@@ -12,7 +12,7 @@ const useStyles = makeStyles(() => ({
   root: {
     display: 'flex',
     justifyContent: 'center',
-    margin: '40px auto 0',
+    margin: '10px auto 0',
     listStyle: 'none',
     padding: '0',
     '& > li': {

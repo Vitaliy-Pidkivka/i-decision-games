@@ -23,7 +23,7 @@ const useStyles = makeStyles(theme => ({
     borderRadius: 4,
     [theme.breakpoints.down('sm')]: {
       flex: '0 0 100%',
-      margin: '0 0 20px'
+      margin: '0 0 10px'
     }
   },
   bullet: {
